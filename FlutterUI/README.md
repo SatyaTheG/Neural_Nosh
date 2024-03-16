@@ -1,4 +1,4 @@
-# Nourishing Well-Being
+# Nourishing Well-Being 🧑‍💻
 
 An UI/UX design for our project with an user friendly and interactive experience with a lot of animations.
 
