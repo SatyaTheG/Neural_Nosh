@@ -15,8 +15,8 @@ To get VirtualAssistant up and running, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/[YourUsername]/Neural_nosh.git
-   cd FitBot
+   git clone https://github.com/[YourUsername]/Neural_Nosh.git
+   cd Neural_Nosh
    cd VirtualAssistant
 
 2. **Setup Virtual Environment (Optional)**
@@ -49,4 +49,4 @@ Once the chatbot is up and running, you can start asking queries. Here's an exam
    What is the TDEE of a 30-year-old man, who is 180 cm tall, weighs 80 kg, and exercises 3 times a week?
    ```
 
-FitBot will generate a meal plan based on the information provided and also inform the person's BMI.
+VirtualAssistant will generate a meal plan based on the information provided and also inform the person's BMI.
