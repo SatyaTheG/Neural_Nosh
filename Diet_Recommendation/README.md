@@ -6,7 +6,9 @@ NeuralNosh harnesses the power of machine learning algorithms to provide users w
 ## Clone Repo And use it
 * Clone NeuralNosh repo using below command
 ```git
-git clone https://github.com/SatyaTheG/NeuralNosh.git
+git clone https://github.com/SatyaTheG/Neural_Nosh.git
+cd Neural_Nosh
+cd Diet_Recommendation
 ```
 
 ## Installation Steps
@@ -43,4 +45,7 @@ git clone https://github.com/SatyaTheG/NeuralNosh.git
       "weight_loss": 0.8}
    }
    ```
-3. Enjoy with your results with daily tailored deitary recommendations.   
+3. Enjoy with your results with daily tailored deitary recommendations.
+
+## Note:
+**This repo only provides the dietary information to the user and not the other features.**
