@@ -1,6 +1,6 @@
-# my_fitness
+# Nourishing Well-Being
 
-A new Flutter project.
+An UI/UX design for our project with an user friendly and interactive experience with a lot of animations.
 
 ## Getting Started
 
