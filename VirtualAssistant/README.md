@@ -49,11 +49,3 @@ Once the chatbot is up and running, you can start asking queries. Here's an exam
    ```
 
 FitBot will generate a meal plan based on the information provided and also inform the person's BMI.
-
-## Support
-
-If you encounter any issues or have any questions about the project, feel free to open an issue on this GitHub repository.
-
-## License
-
-FitBot is open-source software licensed under the MIT license.
